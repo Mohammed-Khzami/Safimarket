@@ -1,3 +1,0 @@
-Admin
-username:jbakkas@gmail.com
-password:jamalbakkas
